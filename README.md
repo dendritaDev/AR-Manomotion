@@ -11,3 +11,6 @@ This repository includes four mini-projects that blend the physical and digital 
 - Real-time tracking for accurate virtual try-on experiences.
 - Seamless integration of virtual items with real-world hand movements.
 
+![](https://github.com/dendritaDev/AR-Manomotion/blob/main/ManomotionWatch.gif)
+![](https://github.com/dendritaDev/AR-Manomotion/blob/main/ManomotionRing.gif)
+![](https://github.com/dendritaDev/AR-Manomotion/blob/main/ManomotionGrabInteraction.gif)
